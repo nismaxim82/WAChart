@@ -1,1 +1,1 @@
-npx webpack --config webpack.config.js
+npm run asbuild
