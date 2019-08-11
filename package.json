@@ -1,0 +1,18 @@
+{
+  "name": "WAChart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "walt-compiler": "^0.21.0",
+    "walt-loader": "^1.1.12",
+    "webpack": "^4.39.1",
+    "webpack-cli": "^3.3.6"
+  }
+}
