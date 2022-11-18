@@ -13,6 +13,6 @@
     "walt-compiler": "^0.21.0",
     "walt-loader": "^1.1.12",
     "webpack": "^4.39.1",
-    "webpack-cli": "^3.3.6"
+    "webpack-cli": "^3.3.12"
   }
 }
